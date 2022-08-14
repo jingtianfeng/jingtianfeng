@@ -1,4 +1,4 @@
-##   👋 &nbsp;                         I'm a Front-End Developer based in Montreal, Quebec, Canada.
+##   👋 &nbsp;                         I'm a front-end developer based in Montreal, Quebec, Canada.
 
 #### 🔭 &nbsp;&nbsp;&nbsp;&nbsp;       Working on my portfolio website
 
