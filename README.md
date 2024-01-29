@@ -1,4 +1,4 @@
-# Hi! Allô! 你好! It's Feng.
+# Hi! Allô! 你好! It's Jing.
 
 I'm a front-end developer based in Montreal, Quebec, Canada.
 
